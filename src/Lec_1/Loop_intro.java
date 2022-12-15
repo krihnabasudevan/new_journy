@@ -1,4 +1,4 @@
-package Control_statement;
+package Lec_1;
 
 public class Loop_intro {
 	public static void main(String []args) {
