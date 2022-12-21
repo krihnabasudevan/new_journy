@@ -8,7 +8,7 @@ public class Prime_no {
 		int n = sc.nextInt();
 		int count =0;
 		int i =2;
-		while(i<=n/2) {
+		while(i<n/2) {
 			if(n%i==0) {
 				count =count+1;
 			}
